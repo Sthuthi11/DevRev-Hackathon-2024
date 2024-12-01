@@ -2,12 +2,12 @@
 # Refactor the code based on your business logic.
 
 version: "2"
-name: "Work Tracker"
-description: "Logs a message when a work item is created"
+name: "Sprints Summarizer"
+description: "Automatically summarizes the sprints"
 
 # This is the name displayed in DevRev where the Snap-In takes actions using the token of this service account.
 service_account:
-  display_name: DevRev Bot
+  display_name: Sprint Bot
 
 # Add any external connection, reference: https://docs.devrev.ai/snap-ins/concepts#connection.
 
