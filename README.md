@@ -1,4 +1,4 @@
-# DevRev-Sprint-Summarizer
+# Sprint Summarizer For DevRev Hackathon 2024
 
 KEY ADDITIONS:
 1. sprint-summarizer.js
